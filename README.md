@@ -6,6 +6,7 @@ If there are both items and fluids, or more than one type of fluid, the train wi
 Stations work either with a single type of cargo, or with all cargo types except fluids.
 
 ====
+
 How to use:
 In the name of the desired cleanup station, include:
 [LTN-cleanup icon][item or fluid icon]
