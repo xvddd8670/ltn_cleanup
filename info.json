@@ -1,0 +1,10 @@
+{
+  "name": "ltn-cleanup-2.0",
+  "version": "2.0.0",
+  "factorio_version": "2.0",
+  "title": "LTN Cleanup",
+  "author": "xv25ddd",
+  "description": "they will send the train to the cleaning station if it has cargo left after delivery",
+  "dependencies": ["base >= 2.0.0", "LogisticTrainNetwork >= 2.3.4"],
+  "license": "MIT"
+}
